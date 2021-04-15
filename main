@@ -1,0 +1,39 @@
+<html>
+<head>
+<style>
+p.small
+{
+line-height: 20px
+}
+p.big
+{
+line-height: 30px
+}
+</style>
+<title>Brandon Schaufele</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#17202A" vlink="#17202A" alink="#17202A">
+
+<center>
+<IMG hspace=10 src="C:\Users\bscha\OneDrive\Desktop\dog2.png" width="500" border = "4" align=center vspace=25> 
+<br>
+
+<font size = "2" face="Verdana, Arial, Helvetica, sans-serif">
+<p class = "big"><strong>Brandon Schaufele</strong></p>
+<p class = "small">
+Associate Professor</a><br>
+Business, Economics and Public Policy, <a href ="http://www.ivey.uwo.ca">Ivey Business School</a><br>
+Consortium Fellow, <a href="https://www.ivey.uwo.ca/energycentre/">Ivey Energy Policy and Management Centre</a><br>
+Western University<br>
+London, Ontario, Canada<br>
+<a href="bschaufele@ivey.ca">bschaufele@ivey.ca</a><br>
+519-200-6671</a><br>
+</font>
+
+<font size = "2" face="Verdana, Arial, Helvetica, sans-serif" color="#999999">
+<br><a href="index.html">Home</a> | <a href="research.html">Research</a> | <a href="Policy.html">Policy</a>
+</font>
+
+</center>
+</body>
+</html>
